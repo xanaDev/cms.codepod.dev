@@ -1,3 +1,3 @@
-# Strapi application
+# About the blog
 
-A quick description of your strapi application
+This is where I share the things that I Know and maybe some of the things that I'd like to know.
